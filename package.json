@@ -1,0 +1,15 @@
+{
+  "name": "socket-basics-nodejs",
+  "version": "1.0.0",
+  "description": "A repo Created to Understand in depth of Sockets and Node Socket Implementation of Socket dgram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index.js"
+  },
+  "author": "Sarthak Garg",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
